@@ -29,8 +29,8 @@ test: qfdWriter.jar totalFail.jar classes/QFDPrinter.class src/test/QFDPrinter.j
 	rm -rf qfds intermediate_output
 	hadoop jar qfdWriter.jar input/testvectors
 	hadoop jar totalFail.jar input/tv_torip.txt
-	mkdir qfds
 	mkdir -p output/actual
+	mkdir -p qfds
 	java -cp ${HADOOP_JARS}:classes QFDPrinter qfds > output/actual/test_1.txt
 	diff output/expected/test_1.txt output/actual/test_1.txt
 
@@ -38,8 +38,8 @@ test-quiet: qfdWriter.jar totalFail.jar classes/QFDPrinter.class src/test/QFDPri
 	rm -rf qfds intermediate_output
 	hadoop --loglevel ERROR jar qfdWriter.jar input/testvectors
 	hadoop --loglevel ERROR jar totalFail.jar input/tv_torip.txt
-	mkdir qfds
 	mkdir -p output/actual
+	mkdir -p qfds
 	java -cp ${HADOOP_JARS}:classes QFDPrinter qfds > output/actual/test_1.txt
 	diff output/expected/test_1.txt output/actual/test_1.txt
 
