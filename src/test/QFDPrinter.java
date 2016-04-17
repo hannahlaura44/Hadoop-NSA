@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
-import java.util.Arrays;
+import java.util.*;
 
 public class QFDPrinter {
     public static void main(String[] args) {
@@ -34,7 +34,9 @@ public class QFDPrinter {
                     QueryFocusedDataSet qfd = (QueryFocusedDataSet) ois.readObject();
 
                     System.out.println("Request/Reply Matches");
-                    for (RequestReplyMatch match : qfd.getMatches()) {
+                    List<RequestReplyMatch> matchList = new ArrayList<>(qfd.getMatches());
+                    Collections.sort(matchList, new RRMComparator());
+                    for (RequestReplyMatch match : matchList) {
                         System.out.println(match);
                     }
 
@@ -46,6 +48,38 @@ public class QFDPrinter {
                     throw new RuntimeException("QueryFocusedDataset class not found", e);
                 }
             }
+        }
+    }
+
+    private static class RRMComparator implements Comparator<RequestReplyMatch> {
+        @Override
+        public int compare(RequestReplyMatch thisMatch, RequestReplyMatch otherMatch) {
+            int srcIpComparison = thisMatch.getSrcIp().compareTo(otherMatch.getSrcIp());
+            if (srcIpComparison != 0) {
+                return srcIpComparison;
+            }
+
+            int srcPortComparison = thisMatch.getSrcPort() - otherMatch.getSrcPort();
+            if (srcPortComparison != 0) {
+                return srcPortComparison;
+            }
+
+            int destIpComparison = thisMatch.getDestIp().compareTo(otherMatch.getDestIp());
+            if (destIpComparison != 0) {
+                return destIpComparison;
+            }
+
+            int destPortComparison = thisMatch.getDestPort() - otherMatch.getDestPort();
+            if (destPortComparison != 0) {
+                return destPortComparison;
+            }
+
+            int cookieComparison = thisMatch.getCookie().compareTo(otherMatch.getCookie());
+            if (cookieComparison != 0) {
+                return cookieComparison;
+            }
+
+            return thisMatch.getUserName().compareTo(otherMatch.getUserName());
         }
     }
 }

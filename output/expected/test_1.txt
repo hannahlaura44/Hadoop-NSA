@@ -31,13 +31,13 @@ Timestamp = 13415765	srcIP = 202.242.51.140	srcPort = 51868	destIP = 4.17.229.74
 Reading file cookie_055E
 Request/Reply Matches
 Request
-Timestamp = 13418035	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	cookie = btwznidm
-Reply
-Timestamp = 13418040	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	userName = fspvtunbrw
-Request
 Timestamp = 13415183	srcIP = 139.37.199.165	srcPort = 4283	destIP = 46.232.205.172	destPort = 80	cookie = btwznidm
 Reply
 Timestamp = 13415187	srcIP = 139.37.199.165	srcPort = 4283	destIP = 46.232.205.172	destPort = 80	userName = fspvtunbrw
+Request
+Timestamp = 13418035	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	cookie = btwznidm
+Reply
+Timestamp = 13418040	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	userName = fspvtunbrw
 Reading file cookie_079C
 Request/Reply Matches
 Request
@@ -51,13 +51,13 @@ Timestamp = 13414877	srcIP = 87.85.210.177	srcPort = 5200	destIP = 61.68.200.216
 Reading file cookie_0A97
 Request/Reply Matches
 Request
-Timestamp = 13415353	srcIP = 43.43.94.48	srcPort = 17810	destIP = 174.228.220.117	destPort = 80	cookie = ynxwitks
-Reply
-Timestamp = 13415356	srcIP = 43.43.94.48	srcPort = 17810	destIP = 174.228.220.117	destPort = 80	userName = kzbiifiqlp
-Request
 Timestamp = 13417391	srcIP = 148.186.36.29	srcPort = 58845	destIP = 205.44.110.49	destPort = 80	cookie = ynxwitks
 Reply
 Timestamp = 13417393	srcIP = 148.186.36.29	srcPort = 58845	destIP = 205.44.110.49	destPort = 80	userName = kzbiifiqlp
+Request
+Timestamp = 13415353	srcIP = 43.43.94.48	srcPort = 17810	destIP = 174.228.220.117	destPort = 80	cookie = ynxwitks
+Reply
+Timestamp = 13415356	srcIP = 43.43.94.48	srcPort = 17810	destIP = 174.228.220.117	destPort = 80	userName = kzbiifiqlp
 Reading file cookie_0B75
 Request/Reply Matches
 Request
@@ -73,13 +73,13 @@ Timestamp = 13415651	srcIP = 125.69.142.39	srcPort = 20930	destIP = 166.51.107.7
 Reading file cookie_0C06
 Request/Reply Matches
 Request
-Timestamp = 13417557	srcIP = 253.242.41.186	srcPort = 61948	destIP = 237.193.237.229	destPort = 80	cookie = hqdlorqhj
-Reply
-Timestamp = 13417560	srcIP = 253.242.41.186	srcPort = 61948	destIP = 237.193.237.229	destPort = 80	userName = hbdrvdmz
-Request
 Timestamp = 13413971	srcIP = 215.201.245.67	srcPort = 21108	destIP = 63.117.103.244	destPort = 80	cookie = hqdlorqhj
 Reply
 Timestamp = 13413973	srcIP = 215.201.245.67	srcPort = 21108	destIP = 63.117.103.244	destPort = 80	userName = hbdrvdmz
+Request
+Timestamp = 13417557	srcIP = 253.242.41.186	srcPort = 61948	destIP = 237.193.237.229	destPort = 80	cookie = hqdlorqhj
+Reply
+Timestamp = 13417560	srcIP = 253.242.41.186	srcPort = 61948	destIP = 237.193.237.229	destPort = 80	userName = hbdrvdmz
 Reading file cookie_0C20
 Request/Reply Matches
 Request
@@ -243,13 +243,9 @@ Timestamp = 13412441	srcIP = 216.65.146.47	srcPort = 54405	destIP = 114.66.135.1
 Reading file cookie_269B
 Request/Reply Matches
 Request
-Timestamp = 13418236	srcIP = 70.11.141.155	srcPort = 47382	destIP = 161.234.213.201	destPort = 80	cookie = lhicqhobu
+Timestamp = 13417611	srcIP = 126.74.71.88	srcPort = 57946	destIP = 110.71.13.220	destPort = 80	cookie = lhicqhobu
 Reply
-Timestamp = 13418237	srcIP = 70.11.141.155	srcPort = 47382	destIP = 161.234.213.201	destPort = 80	userName = fbvtukvep
-Request
-Timestamp = 13412548	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	cookie = lhicqhobu
-Reply
-Timestamp = 13412553	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	userName = fbvtukvep
+Timestamp = 13417616	srcIP = 126.74.71.88	srcPort = 57946	destIP = 110.71.13.220	destPort = 80	userName = fbvtukvep
 Request
 Timestamp = 13416186	srcIP = 141.142.163.90	srcPort = 6836	destIP = 58.14.30.20	destPort = 80	cookie = lhicqhobu
 Reply
@@ -259,19 +255,23 @@ Timestamp = 13416483	srcIP = 170.180.71.96	srcPort = 23449	destIP = 10.38.76.25	
 Reply
 Timestamp = 13416484	srcIP = 170.180.71.96	srcPort = 23449	destIP = 10.38.76.25	destPort = 80	userName = fbvtukvep
 Request
-Timestamp = 13417611	srcIP = 126.74.71.88	srcPort = 57946	destIP = 110.71.13.220	destPort = 80	cookie = lhicqhobu
+Timestamp = 13412548	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	cookie = lhicqhobu
 Reply
-Timestamp = 13417616	srcIP = 126.74.71.88	srcPort = 57946	destIP = 110.71.13.220	destPort = 80	userName = fbvtukvep
+Timestamp = 13412553	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	userName = fbvtukvep
+Request
+Timestamp = 13418236	srcIP = 70.11.141.155	srcPort = 47382	destIP = 161.234.213.201	destPort = 80	cookie = lhicqhobu
+Reply
+Timestamp = 13418237	srcIP = 70.11.141.155	srcPort = 47382	destIP = 161.234.213.201	destPort = 80	userName = fbvtukvep
 Reading file cookie_2A8B
 Request/Reply Matches
-Request
-Timestamp = 13414252	srcIP = 24.99.49.161	srcPort = 61223	destIP = 18.209.66.65	destPort = 80	cookie = ucryfhz
-Reply
-Timestamp = 13414257	srcIP = 24.99.49.161	srcPort = 61223	destIP = 18.209.66.65	destPort = 80	userName = hzuwvs
 Request
 Timestamp = 13415489	srcIP = 223.109.123.43	srcPort = 8188	destIP = 196.224.211.99	destPort = 80	cookie = ytejeq
 Reply
 Timestamp = 13415493	srcIP = 223.109.123.43	srcPort = 8188	destIP = 196.224.211.99	destPort = 80	userName = gtvvfl
+Request
+Timestamp = 13414252	srcIP = 24.99.49.161	srcPort = 61223	destIP = 18.209.66.65	destPort = 80	cookie = ucryfhz
+Reply
+Timestamp = 13414257	srcIP = 24.99.49.161	srcPort = 61223	destIP = 18.209.66.65	destPort = 80	userName = hzuwvs
 Reading file cookie_2B60
 Request/Reply Matches
 Request
@@ -281,13 +281,13 @@ Timestamp = 13417305	srcIP = 139.37.199.165	srcPort = 55810	destIP = 200.180.51.
 Reading file cookie_2BBB
 Request/Reply Matches
 Request
-Timestamp = 13417090	srcIP = 254.133.36.19	srcPort = 51028	destIP = 137.4.122.112	destPort = 80	cookie = cclaaqa
-Reply
-Timestamp = 13417091	srcIP = 254.133.36.19	srcPort = 51028	destIP = 137.4.122.112	destPort = 80	userName = fbtou
-Request
 Timestamp = 13414613	srcIP = 139.37.199.165	srcPort = 10423	destIP = 193.86.70.171	destPort = 80	cookie = cclaaqa
 Reply
 Timestamp = 13414617	srcIP = 139.37.199.165	srcPort = 10423	destIP = 193.86.70.171	destPort = 80	userName = fbtou
+Request
+Timestamp = 13417090	srcIP = 254.133.36.19	srcPort = 51028	destIP = 137.4.122.112	destPort = 80	cookie = cclaaqa
+Reply
+Timestamp = 13417091	srcIP = 254.133.36.19	srcPort = 51028	destIP = 137.4.122.112	destPort = 80	userName = fbtou
 Reading file cookie_2DD5
 Request/Reply Matches
 Request
@@ -427,13 +427,13 @@ Timestamp = 13418232	srcIP = 173.82.47.175	srcPort = 50308	destIP = 166.162.100.
 Reading file cookie_47C8
 Request/Reply Matches
 Request
-Timestamp = 13415951	srcIP = 242.240.135.181	srcPort = 4292	destIP = 126.180.193.240	destPort = 80	cookie = ulfdyyagjl
-Reply
-Timestamp = 13415955	srcIP = 242.240.135.181	srcPort = 4292	destIP = 126.180.193.240	destPort = 80	userName = fgvwkdw
-Request
 Timestamp = 13417591	srcIP = 13.216.80.7	srcPort = 9933	destIP = 249.164.16.71	destPort = 80	cookie = ulfdyyagjl
 Reply
 Timestamp = 13417596	srcIP = 13.216.80.7	srcPort = 9933	destIP = 249.164.16.71	destPort = 80	userName = fgvwkdw
+Request
+Timestamp = 13415951	srcIP = 242.240.135.181	srcPort = 4292	destIP = 126.180.193.240	destPort = 80	cookie = ulfdyyagjl
+Reply
+Timestamp = 13415955	srcIP = 242.240.135.181	srcPort = 4292	destIP = 126.180.193.240	destPort = 80	userName = fgvwkdw
 Reading file cookie_484F
 Request/Reply Matches
 Request
@@ -601,13 +601,13 @@ Timestamp = 13412686	srcIP = 153.42.23.139	srcPort = 6418	destIP = 182.200.36.22
 Reading file cookie_68F2
 Request/Reply Matches
 Request
-Timestamp = 13415670	srcIP = 230.49.43.101	srcPort = 59009	destIP = 29.158.188.82	destPort = 80	cookie = oyxowlezw
-Reply
-Timestamp = 13415674	srcIP = 230.49.43.101	srcPort = 59009	destIP = 29.158.188.82	destPort = 80	userName = yafdjf
-Request
 Timestamp = 13414286	srcIP = 118.82.188.106	srcPort = 41595	destIP = 217.22.217.83	destPort = 80	cookie = oyxowlezw
 Reply
 Timestamp = 13414290	srcIP = 118.82.188.106	srcPort = 41595	destIP = 217.22.217.83	destPort = 80	userName = yafdjf
+Request
+Timestamp = 13415670	srcIP = 230.49.43.101	srcPort = 59009	destIP = 29.158.188.82	destPort = 80	cookie = oyxowlezw
+Reply
+Timestamp = 13415674	srcIP = 230.49.43.101	srcPort = 59009	destIP = 29.158.188.82	destPort = 80	userName = yafdjf
 Reading file cookie_6B60
 Request/Reply Matches
 Request
@@ -653,13 +653,13 @@ Timestamp = 13415699	srcIP = 73.204.242.188	srcPort = 62000	destIP = 130.80.136.
 Reading file cookie_745E
 Request/Reply Matches
 Request
-Timestamp = 13417343	srcIP = 96.34.206.222	srcPort = 27169	destIP = 52.129.249.204	destPort = 80	cookie = qquklkz
-Reply
-Timestamp = 13417344	srcIP = 96.34.206.222	srcPort = 27169	destIP = 52.129.249.204	destPort = 80	userName = ckqwa
-Request
 Timestamp = 13417273	srcIP = 215.228.227.233	srcPort = 63562	destIP = 112.249.220.80	destPort = 80	cookie = qquklkz
 Reply
 Timestamp = 13417278	srcIP = 215.228.227.233	srcPort = 63562	destIP = 112.249.220.80	destPort = 80	userName = ckqwa
+Request
+Timestamp = 13417343	srcIP = 96.34.206.222	srcPort = 27169	destIP = 52.129.249.204	destPort = 80	cookie = qquklkz
+Reply
+Timestamp = 13417344	srcIP = 96.34.206.222	srcPort = 27169	destIP = 52.129.249.204	destPort = 80	userName = ckqwa
 Reading file cookie_75C0
 Request/Reply Matches
 Request
@@ -687,13 +687,13 @@ Timestamp = 13416895	srcIP = 147.144.75.149	srcPort = 63523	destIP = 175.169.247
 Reading file cookie_7AEC
 Request/Reply Matches
 Request
-Timestamp = 13413839	srcIP = 84.148.137.159	srcPort = 30105	destIP = 133.25.195.152	destPort = 80	cookie = xvxnhyvrwf
-Reply
-Timestamp = 13413844	srcIP = 84.148.137.159	srcPort = 30105	destIP = 133.25.195.152	destPort = 80	userName = opzzgbw
-Request
 Timestamp = 13414137	srcIP = 225.168.251.216	srcPort = 31977	destIP = 140.127.171.89	destPort = 80	cookie = xvxnhyvrwf
 Reply
 Timestamp = 13414137	srcIP = 225.168.251.216	srcPort = 31977	destIP = 140.127.171.89	destPort = 80	userName = opzzgbw
+Request
+Timestamp = 13413839	srcIP = 84.148.137.159	srcPort = 30105	destIP = 133.25.195.152	destPort = 80	cookie = xvxnhyvrwf
+Reply
+Timestamp = 13413844	srcIP = 84.148.137.159	srcPort = 30105	destIP = 133.25.195.152	destPort = 80	userName = opzzgbw
 Reading file cookie_7B95
 Request/Reply Matches
 Request
@@ -781,23 +781,23 @@ Timestamp = 13415116	srcIP = 52.65.202.223	srcPort = 54130	destIP = 49.180.15.22
 Reading file cookie_8CB8
 Request/Reply Matches
 Request
-Timestamp = 13416088	srcIP = 218.38.43.234	srcPort = 38120	destIP = 144.243.43.128	destPort = 80	cookie = otxlzht
-Reply
-Timestamp = 13416088	srcIP = 218.38.43.234	srcPort = 38120	destIP = 144.243.43.128	destPort = 80	userName = vframgrcp
-Request
 Timestamp = 13414531	srcIP = 10.1.68.37	srcPort = 40238	destIP = 121.255.169.118	destPort = 80	cookie = otxlzht
 Reply
 Timestamp = 13414532	srcIP = 10.1.68.37	srcPort = 40238	destIP = 121.255.169.118	destPort = 80	userName = vframgrcp
+Request
+Timestamp = 13416088	srcIP = 218.38.43.234	srcPort = 38120	destIP = 144.243.43.128	destPort = 80	cookie = otxlzht
+Reply
+Timestamp = 13416088	srcIP = 218.38.43.234	srcPort = 38120	destIP = 144.243.43.128	destPort = 80	userName = vframgrcp
 Reading file cookie_8D11
 Request/Reply Matches
-Request
-Timestamp = 13417782	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	cookie = qkzoppfr
-Reply
-Timestamp = 13417786	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	userName = vdxet
 Request
 Timestamp = 13414990	srcIP = 119.168.180.184	srcPort = 34420	destIP = 141.95.58.38	destPort = 80	cookie = qkzoppfr
 Reply
 Timestamp = 13414994	srcIP = 119.168.180.184	srcPort = 34420	destIP = 141.95.58.38	destPort = 80	userName = vdxet
+Request
+Timestamp = 13417782	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	cookie = qkzoppfr
+Reply
+Timestamp = 13417786	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	userName = vdxet
 Reading file cookie_8DE5
 Request/Reply Matches
 Request
@@ -1067,10 +1067,6 @@ Timestamp = 13416002	srcIP = 166.226.198.178	srcPort = 9030	destIP = 197.169.177
 Reading file cookie_BACA
 Request/Reply Matches
 Request
-Timestamp = 13417540	srcIP = 248.32.121.68	srcPort = 31979	destIP = 4.235.107.200	destPort = 80	cookie = wkkye
-Reply
-Timestamp = 13417543	srcIP = 248.32.121.68	srcPort = 31979	destIP = 4.235.107.200	destPort = 80	userName = ubzsrkvll
-Request
 Timestamp = 13417063	srcIP = 13.33.8.226	srcPort = 1641	destIP = 66.83.142.67	destPort = 80	cookie = wkkye
 Reply
 Timestamp = 13417064	srcIP = 13.33.8.226	srcPort = 1641	destIP = 66.83.142.67	destPort = 80	userName = ubzsrkvll
@@ -1078,6 +1074,10 @@ Request
 Timestamp = 13416521	srcIP = 166.100.23.208	srcPort = 43027	destIP = 113.5.7.207	destPort = 80	cookie = wkkye
 Reply
 Timestamp = 13416522	srcIP = 166.100.23.208	srcPort = 43027	destIP = 113.5.7.207	destPort = 80	userName = ubzsrkvll
+Request
+Timestamp = 13417540	srcIP = 248.32.121.68	srcPort = 31979	destIP = 4.235.107.200	destPort = 80	cookie = wkkye
+Reply
+Timestamp = 13417543	srcIP = 248.32.121.68	srcPort = 31979	destIP = 4.235.107.200	destPort = 80	userName = ubzsrkvll
 Reading file cookie_BAD3
 Request/Reply Matches
 Request
@@ -1105,23 +1105,23 @@ Timestamp = 13417648	srcIP = 250.221.120.145	srcPort = 59267	destIP = 23.130.116
 Reading file cookie_BE3A
 Request/Reply Matches
 Request
-Timestamp = 13414857	srcIP = 58.163.73.44	srcPort = 11365	destIP = 113.148.33.249	destPort = 80	cookie = siaftxv
-Reply
-Timestamp = 13414862	srcIP = 58.163.73.44	srcPort = 11365	destIP = 113.148.33.249	destPort = 80	userName = xicvj
-Request
 Timestamp = 13413125	srcIP = 217.78.180.148	srcPort = 25378	destIP = 26.71.100.12	destPort = 80	cookie = siaftxv
 Reply
 Timestamp = 13413125	srcIP = 217.78.180.148	srcPort = 25378	destIP = 26.71.100.12	destPort = 80	userName = xicvj
+Request
+Timestamp = 13414857	srcIP = 58.163.73.44	srcPort = 11365	destIP = 113.148.33.249	destPort = 80	cookie = siaftxv
+Reply
+Timestamp = 13414862	srcIP = 58.163.73.44	srcPort = 11365	destIP = 113.148.33.249	destPort = 80	userName = xicvj
 Reading file cookie_C0EA
 Request/Reply Matches
-Request
-Timestamp = 13418501	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	cookie = eifakslyo
-Reply
-Timestamp = 13418506	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	userName = betlw
 Request
 Timestamp = 13415312	srcIP = 116.144.217.33	srcPort = 19192	destIP = 203.208.61.101	destPort = 80	cookie = eifakslyo
 Reply
 Timestamp = 13415312	srcIP = 116.144.217.33	srcPort = 19192	destIP = 203.208.61.101	destPort = 80	userName = betlw
+Request
+Timestamp = 13418501	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	cookie = eifakslyo
+Reply
+Timestamp = 13418506	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	userName = betlw
 Reading file cookie_C149
 Request/Reply Matches
 Request
@@ -1149,13 +1149,13 @@ Timestamp = 13413301	srcIP = 162.124.102.52	srcPort = 39379	destIP = 67.110.215.
 Reading file cookie_C585
 Request/Reply Matches
 Request
-Timestamp = 13417636	srcIP = 218.188.47.156	srcPort = 5106	destIP = 245.250.207.221	destPort = 80	cookie = rbfhrngr
-Reply
-Timestamp = 13417638	srcIP = 218.188.47.156	srcPort = 5106	destIP = 245.250.207.221	destPort = 80	userName = hqqprgcip
-Request
 Timestamp = 13417553	srcIP = 213.88.13.152	srcPort = 40591	destIP = 233.120.94.235	destPort = 80	cookie = rbfhrngr
 Reply
 Timestamp = 13417553	srcIP = 213.88.13.152	srcPort = 40591	destIP = 233.120.94.235	destPort = 80	userName = hqqprgcip
+Request
+Timestamp = 13417636	srcIP = 218.188.47.156	srcPort = 5106	destIP = 245.250.207.221	destPort = 80	cookie = rbfhrngr
+Reply
+Timestamp = 13417638	srcIP = 218.188.47.156	srcPort = 5106	destIP = 245.250.207.221	destPort = 80	userName = hqqprgcip
 Reading file cookie_C6F5
 Request/Reply Matches
 Request
@@ -1195,6 +1195,10 @@ Timestamp = 13413605	srcIP = 163.57.225.159	srcPort = 62758	destIP = 212.135.110
 Reading file cookie_CA08
 Request/Reply Matches
 Request
+Timestamp = 13417182	srcIP = 169.168.90.177	srcPort = 50774	destIP = 101.153.42.40	destPort = 80	cookie = znrzqfi
+Reply
+Timestamp = 13417186	srcIP = 169.168.90.177	srcPort = 50774	destIP = 101.153.42.40	destPort = 80	userName = qmzdjamel
+Request
 Timestamp = 13416979	srcIP = 225.95.148.6	srcPort = 22684	destIP = 58.162.68.79	destPort = 80	cookie = znrzqfi
 Reply
 Timestamp = 13416983	srcIP = 225.95.148.6	srcPort = 22684	destIP = 58.162.68.79	destPort = 80	userName = qmzdjamel
@@ -1202,10 +1206,6 @@ Request
 Timestamp = 13417931	srcIP = 50.135.86.248	srcPort = 10263	destIP = 99.213.5.243	destPort = 80	cookie = znrzqfi
 Reply
 Timestamp = 13417931	srcIP = 50.135.86.248	srcPort = 10263	destIP = 99.213.5.243	destPort = 80	userName = qmzdjamel
-Request
-Timestamp = 13417182	srcIP = 169.168.90.177	srcPort = 50774	destIP = 101.153.42.40	destPort = 80	cookie = znrzqfi
-Reply
-Timestamp = 13417186	srcIP = 169.168.90.177	srcPort = 50774	destIP = 101.153.42.40	destPort = 80	userName = qmzdjamel
 Reading file cookie_CBAF
 Request/Reply Matches
 Request
@@ -1239,13 +1239,13 @@ Timestamp = 13416697	srcIP = 211.118.169.107	srcPort = 11091	destIP = 53.93.255.
 Reading file cookie_D0DA
 Request/Reply Matches
 Request
-Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.218	destPort = 80	cookie = lyfou
-Reply
-Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.218	destPort = 80	userName = hsroksbqrx
-Request
 Timestamp = 13417633	srcIP = 215.228.227.233	srcPort = 14703	destIP = 96.84.120.103	destPort = 80	cookie = lyfou
 Reply
 Timestamp = 13417634	srcIP = 215.228.227.233	srcPort = 14703	destIP = 96.84.120.103	destPort = 80	userName = hsroksbqrx
+Request
+Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.218	destPort = 80	cookie = lyfou
+Reply
+Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.218	destPort = 80	userName = hsroksbqrx
 Reading file cookie_D1D0
 Request/Reply Matches
 Request
@@ -1279,13 +1279,13 @@ Timestamp = 13412927	srcIP = 103.42.214.32	srcPort = 60553	destIP = 27.84.69.227
 Reading file cookie_D7CE
 Request/Reply Matches
 Request
-Timestamp = 13416787	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	cookie = lgaqez
-Reply
-Timestamp = 13416791	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	userName = outwtsubb
-Request
 Timestamp = 13415784	srcIP = 139.37.199.165	srcPort = 48925	destIP = 155.183.27.102	destPort = 80	cookie = lgaqez
 Reply
 Timestamp = 13415787	srcIP = 139.37.199.165	srcPort = 48925	destIP = 155.183.27.102	destPort = 80	userName = outwtsubb
+Request
+Timestamp = 13416787	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	cookie = lgaqez
+Reply
+Timestamp = 13416791	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	userName = outwtsubb
 Reading file cookie_D9A9
 Request/Reply Matches
 Request
@@ -1319,13 +1319,13 @@ Timestamp = 13413389	srcIP = 107.101.144.5	srcPort = 6606	destIP = 187.232.243.4
 Reading file cookie_E030
 Request/Reply Matches
 Request
-Timestamp = 13413261	srcIP = 73.205.182.33	srcPort = 21733	destIP = 162.232.58.17	destPort = 80	cookie = hiioacrz
-Reply
-Timestamp = 13413262	srcIP = 73.205.182.33	srcPort = 21733	destIP = 162.232.58.17	destPort = 80	userName = garcojse
-Request
 Timestamp = 13412714	srcIP = 194.42.50.86	srcPort = 52466	destIP = 155.83.31.225	destPort = 80	cookie = hiioacrz
 Reply
 Timestamp = 13412715	srcIP = 194.42.50.86	srcPort = 52466	destIP = 155.83.31.225	destPort = 80	userName = garcojse
+Request
+Timestamp = 13413261	srcIP = 73.205.182.33	srcPort = 21733	destIP = 162.232.58.17	destPort = 80	cookie = hiioacrz
+Reply
+Timestamp = 13413262	srcIP = 73.205.182.33	srcPort = 21733	destIP = 162.232.58.17	destPort = 80	userName = garcojse
 Reading file cookie_E37F
 Request/Reply Matches
 Request
@@ -1495,10 +1495,6 @@ Timestamp = 13417644	srcIP = 237.136.167.176	srcPort = 36680	destIP = 233.246.7.
 Reading file cookie_FE5E
 Request/Reply Matches
 Request
-Timestamp = 13414264	srcIP = 44.54.150.247	srcPort = 1723	destIP = 244.111.14.136	destPort = 80	cookie = fwsohqzykg
-Reply
-Timestamp = 13414266	srcIP = 44.54.150.247	srcPort = 1723	destIP = 244.111.14.136	destPort = 80	userName = afgjnhl
-Request
 Timestamp = 13413170	srcIP = 141.64.12.9	srcPort = 12482	destIP = 81.71.158.52	destPort = 80	cookie = fwsohqzykg
 Reply
 Timestamp = 13413175	srcIP = 141.64.12.9	srcPort = 12482	destIP = 81.71.158.52	destPort = 80	userName = afgjnhl
@@ -1506,6 +1502,10 @@ Request
 Timestamp = 13412847	srcIP = 223.149.192.112	srcPort = 51873	destIP = 9.175.154.12	destPort = 80	cookie = fwsohqzykg
 Reply
 Timestamp = 13412850	srcIP = 223.149.192.112	srcPort = 51873	destIP = 9.175.154.12	destPort = 80	userName = afgjnhl
+Request
+Timestamp = 13414264	srcIP = 44.54.150.247	srcPort = 1723	destIP = 244.111.14.136	destPort = 80	cookie = fwsohqzykg
+Reply
+Timestamp = 13414266	srcIP = 44.54.150.247	srcPort = 1723	destIP = 244.111.14.136	destPort = 80	userName = afgjnhl
 Reading file cookie_FE8D
 Request/Reply Matches
 Request
@@ -1843,13 +1843,13 @@ Timestamp = 13417872	srcIP = 22.141.173.205	srcPort = 51772	destIP = 127.36.233.
 Reading file destIP_2DCF
 Request/Reply Matches
 Request
-Timestamp = 13413136	srcIP = 69.149.8.154	srcPort = 31639	destIP = 254.193.142.101	destPort = 80	cookie = fprybtdydd
-Reply
-Timestamp = 13413139	srcIP = 69.149.8.154	srcPort = 31639	destIP = 254.193.142.101	destPort = 80	userName = uscpvzzqea
-Request
 Timestamp = 13414647	srcIP = 217.12.26.238	srcPort = 43493	destIP = 191.236.198.45	destPort = 80	cookie = qxjmts
 Reply
 Timestamp = 13414649	srcIP = 217.12.26.238	srcPort = 43493	destIP = 191.236.198.45	destPort = 80	userName = oirdqtc
+Request
+Timestamp = 13413136	srcIP = 69.149.8.154	srcPort = 31639	destIP = 254.193.142.101	destPort = 80	cookie = fprybtdydd
+Reply
+Timestamp = 13413139	srcIP = 69.149.8.154	srcPort = 31639	destIP = 254.193.142.101	destPort = 80	userName = uscpvzzqea
 Reading file destIP_2E56
 Request/Reply Matches
 Request
@@ -3185,45 +3185,45 @@ Timestamp = 13413973	srcIP = 215.201.245.67	srcPort = 21108	destIP = 63.117.103.
 Reading file srcIP_0D8C
 Request/Reply Matches
 Request
+Timestamp = 13414534	srcIP = 253.104.111.68	srcPort = 5044	destIP = 42.183.19.70	destPort = 80	cookie = xbpvlj
+Reply
+Timestamp = 13414536	srcIP = 253.104.111.68	srcPort = 5044	destIP = 42.183.19.70	destPort = 80	userName = kheusymyu
+Request
 Timestamp = 13415124	srcIP = 253.104.111.68	srcPort = 9461	destIP = 9.41.198.110	destPort = 80	cookie = szzdebfn
 Reply
 Timestamp = 13415126	srcIP = 253.104.111.68	srcPort = 9461	destIP = 9.41.198.110	destPort = 80	userName = jgyzax
-Request
-Timestamp = 13413709	srcIP = 253.104.111.68	srcPort = 50970	destIP = 149.145.201.134	destPort = 80	cookie = thwdjdcbu
-Reply
-Timestamp = 13413713	srcIP = 253.104.111.68	srcPort = 50970	destIP = 149.145.201.134	destPort = 80	userName = sjukxymjs
 Request
 Timestamp = 13414829	srcIP = 253.104.111.68	srcPort = 17632	destIP = 239.238.201.195	destPort = 80	cookie = tjciqg
 Reply
 Timestamp = 13414829	srcIP = 253.104.111.68	srcPort = 17632	destIP = 239.238.201.195	destPort = 80	userName = xocmuw
 Request
-Timestamp = 13418584	srcIP = 253.104.111.68	srcPort = 60940	destIP = 188.57.75.126	destPort = 80	cookie = czylgpb
+Timestamp = 13414290	srcIP = 253.104.111.68	srcPort = 29999	destIP = 71.234.112.117	destPort = 80	cookie = znexts
 Reply
-Timestamp = 13418587	srcIP = 253.104.111.68	srcPort = 60940	destIP = 188.57.75.126	destPort = 80	userName = ivifnu
+Timestamp = 13414294	srcIP = 253.104.111.68	srcPort = 29999	destIP = 71.234.112.117	destPort = 80	userName = ghtxkzx
 Request
 Timestamp = 13418395	srcIP = 253.104.111.68	srcPort = 32403	destIP = 138.119.177.110	destPort = 80	cookie = dryuipn
 Reply
 Timestamp = 13418397	srcIP = 253.104.111.68	srcPort = 32403	destIP = 138.119.177.110	destPort = 80	userName = wmhxi
 Request
+Timestamp = 13414365	srcIP = 253.104.111.68	srcPort = 43468	destIP = 124.80.22.190	destPort = 80	cookie = dtgbl
+Reply
+Timestamp = 13414369	srcIP = 253.104.111.68	srcPort = 43468	destIP = 124.80.22.190	destPort = 80	userName = lwppb
+Request
 Timestamp = 13415437	srcIP = 253.104.111.68	srcPort = 48035	destIP = 69.1.159.158	destPort = 80	cookie = miiesewrsr
 Reply
 Timestamp = 13415438	srcIP = 253.104.111.68	srcPort = 48035	destIP = 69.1.159.158	destPort = 80	userName = uslfqtu
 Request
-Timestamp = 13414290	srcIP = 253.104.111.68	srcPort = 29999	destIP = 71.234.112.117	destPort = 80	cookie = znexts
+Timestamp = 13413709	srcIP = 253.104.111.68	srcPort = 50970	destIP = 149.145.201.134	destPort = 80	cookie = thwdjdcbu
 Reply
-Timestamp = 13414294	srcIP = 253.104.111.68	srcPort = 29999	destIP = 71.234.112.117	destPort = 80	userName = ghtxkzx
-Request
-Timestamp = 13414534	srcIP = 253.104.111.68	srcPort = 5044	destIP = 42.183.19.70	destPort = 80	cookie = xbpvlj
-Reply
-Timestamp = 13414536	srcIP = 253.104.111.68	srcPort = 5044	destIP = 42.183.19.70	destPort = 80	userName = kheusymyu
+Timestamp = 13413713	srcIP = 253.104.111.68	srcPort = 50970	destIP = 149.145.201.134	destPort = 80	userName = sjukxymjs
 Request
 Timestamp = 13413243	srcIP = 253.104.111.68	srcPort = 52306	destIP = 27.50.64.57	destPort = 80	cookie = zmigagndp
 Reply
 Timestamp = 13413248	srcIP = 253.104.111.68	srcPort = 52306	destIP = 27.50.64.57	destPort = 80	userName = kqozf
 Request
-Timestamp = 13414365	srcIP = 253.104.111.68	srcPort = 43468	destIP = 124.80.22.190	destPort = 80	cookie = dtgbl
+Timestamp = 13418584	srcIP = 253.104.111.68	srcPort = 60940	destIP = 188.57.75.126	destPort = 80	cookie = czylgpb
 Reply
-Timestamp = 13414369	srcIP = 253.104.111.68	srcPort = 43468	destIP = 124.80.22.190	destPort = 80	userName = lwppb
+Timestamp = 13418587	srcIP = 253.104.111.68	srcPort = 60940	destIP = 188.57.75.126	destPort = 80	userName = ivifnu
 Reading file srcIP_0E1C
 Request/Reply Matches
 Request
@@ -3275,25 +3275,25 @@ Timestamp = 13416678	srcIP = 158.133.32.245	srcPort = 44914	destIP = 99.194.204.
 Reading file srcIP_1552
 Request/Reply Matches
 Request
-Timestamp = 13412933	srcIP = 202.134.155.208	srcPort = 50709	destIP = 44.234.188.197	destPort = 80	cookie = ekcehfqifl
+Timestamp = 13417738	srcIP = 202.134.155.208	srcPort = 3120	destIP = 72.10.253.34	destPort = 80	cookie = ucdqhbweya
 Reply
-Timestamp = 13412937	srcIP = 202.134.155.208	srcPort = 50709	destIP = 44.234.188.197	destPort = 80	userName = mmkatjbcm
-Request
-Timestamp = 13412548	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	cookie = lhicqhobu
-Reply
-Timestamp = 13412553	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	userName = fbvtukvep
-Request
-Timestamp = 13416304	srcIP = 202.134.155.208	srcPort = 60186	destIP = 36.121.140.96	destPort = 80	cookie = mrnwsugmss
-Reply
-Timestamp = 13416309	srcIP = 202.134.155.208	srcPort = 60186	destIP = 36.121.140.96	destPort = 80	userName = ishrradltn
+Timestamp = 13417738	srcIP = 202.134.155.208	srcPort = 3120	destIP = 72.10.253.34	destPort = 80	userName = geewteeg
 Request
 Timestamp = 13414968	srcIP = 202.134.155.208	srcPort = 34088	destIP = 130.21.212.126	destPort = 80	cookie = msilemjpt
 Reply
 Timestamp = 13414972	srcIP = 202.134.155.208	srcPort = 34088	destIP = 130.21.212.126	destPort = 80	userName = cqsulbje
 Request
-Timestamp = 13417738	srcIP = 202.134.155.208	srcPort = 3120	destIP = 72.10.253.34	destPort = 80	cookie = ucdqhbweya
+Timestamp = 13412548	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	cookie = lhicqhobu
 Reply
-Timestamp = 13417738	srcIP = 202.134.155.208	srcPort = 3120	destIP = 72.10.253.34	destPort = 80	userName = geewteeg
+Timestamp = 13412553	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	userName = fbvtukvep
+Request
+Timestamp = 13412933	srcIP = 202.134.155.208	srcPort = 50709	destIP = 44.234.188.197	destPort = 80	cookie = ekcehfqifl
+Reply
+Timestamp = 13412937	srcIP = 202.134.155.208	srcPort = 50709	destIP = 44.234.188.197	destPort = 80	userName = mmkatjbcm
+Request
+Timestamp = 13416304	srcIP = 202.134.155.208	srcPort = 60186	destIP = 36.121.140.96	destPort = 80	cookie = mrnwsugmss
+Reply
+Timestamp = 13416309	srcIP = 202.134.155.208	srcPort = 60186	destIP = 36.121.140.96	destPort = 80	userName = ishrradltn
 Reading file srcIP_15D6
 Request/Reply Matches
 Request
@@ -3453,21 +3453,21 @@ Timestamp = 13415955	srcIP = 242.240.135.181	srcPort = 4292	destIP = 126.180.193
 Reading file srcIP_3052
 Request/Reply Matches
 Request
-Timestamp = 13413776	srcIP = 92.126.192.54	srcPort = 19219	destIP = 150.204.155.110	destPort = 80	cookie = sngfxvkgw
-Reply
-Timestamp = 13413778	srcIP = 92.126.192.54	srcPort = 19219	destIP = 150.204.155.110	destPort = 80	userName = houbbagta
-Request
 Timestamp = 13415346	srcIP = 92.126.192.54	srcPort = 7363	destIP = 175.96.253.66	destPort = 80	cookie = ggqwa
 Reply
 Timestamp = 13415346	srcIP = 92.126.192.54	srcPort = 7363	destIP = 175.96.253.66	destPort = 80	userName = otagy
 Request
-Timestamp = 13416787	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	cookie = lgaqez
+Timestamp = 13413776	srcIP = 92.126.192.54	srcPort = 19219	destIP = 150.204.155.110	destPort = 80	cookie = sngfxvkgw
 Reply
-Timestamp = 13416791	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	userName = outwtsubb
+Timestamp = 13413778	srcIP = 92.126.192.54	srcPort = 19219	destIP = 150.204.155.110	destPort = 80	userName = houbbagta
 Request
 Timestamp = 13413919	srcIP = 92.126.192.54	srcPort = 60038	destIP = 50.217.197.225	destPort = 80	cookie = bqijf
 Reply
 Timestamp = 13413921	srcIP = 92.126.192.54	srcPort = 60038	destIP = 50.217.197.225	destPort = 80	userName = vijjb
+Request
+Timestamp = 13416787	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	cookie = lgaqez
+Reply
+Timestamp = 13416791	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	userName = outwtsubb
 Reading file srcIP_30EA
 Request/Reply Matches
 Request
@@ -3861,10 +3861,6 @@ Timestamp = 13414612	srcIP = 101.239.36.3	srcPort = 24313	destIP = 47.40.88.193	
 Reading file srcIP_80C0
 Request/Reply Matches
 Request
-Timestamp = 13417872	srcIP = 22.141.173.205	srcPort = 51772	destIP = 127.36.233.174	destPort = 80	cookie = qjeyctvo
-Reply
-Timestamp = 13417872	srcIP = 22.141.173.205	srcPort = 51772	destIP = 127.36.233.174	destPort = 80	userName = bjpsvftw
-Request
 Timestamp = 13414789	srcIP = 22.141.173.205	srcPort = 13973	destIP = 10.172.231.215	destPort = 80	cookie = maxsj
 Reply
 Timestamp = 13414794	srcIP = 22.141.173.205	srcPort = 13973	destIP = 10.172.231.215	destPort = 80	userName = frnywl
@@ -3873,17 +3869,21 @@ Timestamp = 13412644	srcIP = 22.141.173.205	srcPort = 16602	destIP = 103.84.40.2
 Reply
 Timestamp = 13412647	srcIP = 22.141.173.205	srcPort = 16602	destIP = 103.84.40.29	destPort = 80	userName = bmnposjdfn
 Request
-Timestamp = 13418035	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	cookie = btwznidm
+Timestamp = 13414443	srcIP = 22.141.173.205	srcPort = 45911	destIP = 63.90.51.157	destPort = 80	cookie = njabhfdprv
 Reply
-Timestamp = 13418040	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	userName = fspvtunbrw
+Timestamp = 13414444	srcIP = 22.141.173.205	srcPort = 45911	destIP = 63.90.51.157	destPort = 80	userName = ptkfucmbo
 Request
 Timestamp = 13417123	srcIP = 22.141.173.205	srcPort = 48015	destIP = 94.150.143.104	destPort = 80	cookie = hhgxudu
 Reply
 Timestamp = 13417128	srcIP = 22.141.173.205	srcPort = 48015	destIP = 94.150.143.104	destPort = 80	userName = hsjxtu
 Request
-Timestamp = 13414443	srcIP = 22.141.173.205	srcPort = 45911	destIP = 63.90.51.157	destPort = 80	cookie = njabhfdprv
+Timestamp = 13417872	srcIP = 22.141.173.205	srcPort = 51772	destIP = 127.36.233.174	destPort = 80	cookie = qjeyctvo
 Reply
-Timestamp = 13414444	srcIP = 22.141.173.205	srcPort = 45911	destIP = 63.90.51.157	destPort = 80	userName = ptkfucmbo
+Timestamp = 13417872	srcIP = 22.141.173.205	srcPort = 51772	destIP = 127.36.233.174	destPort = 80	userName = bjpsvftw
+Request
+Timestamp = 13418035	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	cookie = btwznidm
+Reply
+Timestamp = 13418040	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	userName = fspvtunbrw
 Reading file srcIP_80FB
 Request/Reply Matches
 Request
@@ -3911,45 +3911,45 @@ Timestamp = 13412705	srcIP = 36.181.133.213	srcPort = 29990	destIP = 236.244.74.
 Reading file srcIP_83A9
 Request/Reply Matches
 Request
-Timestamp = 13418551	srcIP = 153.42.23.139	srcPort = 52736	destIP = 155.76.163.247	destPort = 80	cookie = fxfgzp
+Timestamp = 13415234	srcIP = 153.42.23.139	srcPort = 3034	destIP = 241.108.40.166	destPort = 80	cookie = sgcpqxshk
 Reply
-Timestamp = 13418551	srcIP = 153.42.23.139	srcPort = 52736	destIP = 155.76.163.247	destPort = 80	userName = kjxakdc
+Timestamp = 13415238	srcIP = 153.42.23.139	srcPort = 3034	destIP = 241.108.40.166	destPort = 80	userName = hpiplbwsbf
 Request
 Timestamp = 13412682	srcIP = 153.42.23.139	srcPort = 6418	destIP = 182.200.36.220	destPort = 80	cookie = evqootjfg
 Reply
 Timestamp = 13412686	srcIP = 153.42.23.139	srcPort = 6418	destIP = 182.200.36.220	destPort = 80	userName = hvnkostakx
 Request
-Timestamp = 13417071	srcIP = 153.42.23.139	srcPort = 26135	destIP = 64.148.70.24	destPort = 80	cookie = usjsx
+Timestamp = 13418489	srcIP = 153.42.23.139	srcPort = 14380	destIP = 233.186.140.181	destPort = 80	cookie = giota
 Reply
-Timestamp = 13417071	srcIP = 153.42.23.139	srcPort = 26135	destIP = 64.148.70.24	destPort = 80	userName = bgctukgn
-Request
-Timestamp = 13413139	srcIP = 153.42.23.139	srcPort = 61821	destIP = 235.48.221.222	destPort = 80	cookie = cdjfg
-Reply
-Timestamp = 13413142	srcIP = 153.42.23.139	srcPort = 61821	destIP = 235.48.221.222	destPort = 80	userName = uzzxz
-Request
-Timestamp = 13413321	srcIP = 153.42.23.139	srcPort = 34673	destIP = 81.162.247.180	destPort = 80	cookie = bgfero
-Reply
-Timestamp = 13413322	srcIP = 153.42.23.139	srcPort = 34673	destIP = 81.162.247.180	destPort = 80	userName = extlhii
+Timestamp = 13418490	srcIP = 153.42.23.139	srcPort = 14380	destIP = 233.186.140.181	destPort = 80	userName = zmdwfazwi
 Request
 Timestamp = 13415409	srcIP = 153.42.23.139	srcPort = 23591	destIP = 17.253.78.185	destPort = 80	cookie = dgazmuqw
 Reply
 Timestamp = 13415412	srcIP = 153.42.23.139	srcPort = 23591	destIP = 17.253.78.185	destPort = 80	userName = yzacdus
 Request
+Timestamp = 13417071	srcIP = 153.42.23.139	srcPort = 26135	destIP = 64.148.70.24	destPort = 80	cookie = usjsx
+Reply
+Timestamp = 13417071	srcIP = 153.42.23.139	srcPort = 26135	destIP = 64.148.70.24	destPort = 80	userName = bgctukgn
+Request
 Timestamp = 13413741	srcIP = 153.42.23.139	srcPort = 33829	destIP = 194.20.246.77	destPort = 80	cookie = ghktadkc
 Reply
 Timestamp = 13413745	srcIP = 153.42.23.139	srcPort = 33829	destIP = 194.20.246.77	destPort = 80	userName = vmsjoxcacs
 Request
-Timestamp = 13418489	srcIP = 153.42.23.139	srcPort = 14380	destIP = 233.186.140.181	destPort = 80	cookie = giota
+Timestamp = 13413321	srcIP = 153.42.23.139	srcPort = 34673	destIP = 81.162.247.180	destPort = 80	cookie = bgfero
 Reply
-Timestamp = 13418490	srcIP = 153.42.23.139	srcPort = 14380	destIP = 233.186.140.181	destPort = 80	userName = zmdwfazwi
-Request
-Timestamp = 13415234	srcIP = 153.42.23.139	srcPort = 3034	destIP = 241.108.40.166	destPort = 80	cookie = sgcpqxshk
-Reply
-Timestamp = 13415238	srcIP = 153.42.23.139	srcPort = 3034	destIP = 241.108.40.166	destPort = 80	userName = hpiplbwsbf
+Timestamp = 13413322	srcIP = 153.42.23.139	srcPort = 34673	destIP = 81.162.247.180	destPort = 80	userName = extlhii
 Request
 Timestamp = 13414149	srcIP = 153.42.23.139	srcPort = 39848	destIP = 55.44.110.13	destPort = 80	cookie = whmujpkkul
 Reply
 Timestamp = 13414152	srcIP = 153.42.23.139	srcPort = 39848	destIP = 55.44.110.13	destPort = 80	userName = sdrle
+Request
+Timestamp = 13418551	srcIP = 153.42.23.139	srcPort = 52736	destIP = 155.76.163.247	destPort = 80	cookie = fxfgzp
+Reply
+Timestamp = 13418551	srcIP = 153.42.23.139	srcPort = 52736	destIP = 155.76.163.247	destPort = 80	userName = kjxakdc
+Request
+Timestamp = 13413139	srcIP = 153.42.23.139	srcPort = 61821	destIP = 235.48.221.222	destPort = 80	cookie = cdjfg
+Reply
+Timestamp = 13413142	srcIP = 153.42.23.139	srcPort = 61821	destIP = 235.48.221.222	destPort = 80	userName = uzzxz
 Reading file srcIP_83AF
 Request/Reply Matches
 Request
@@ -3959,9 +3959,9 @@ Timestamp = 13413064	srcIP = 111.37.15.170	srcPort = 38942	destIP = 254.144.68.1
 Reading file srcIP_83F5
 Request/Reply Matches
 Request
-Timestamp = 13418501	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	cookie = eifakslyo
+Timestamp = 13415183	srcIP = 139.37.199.165	srcPort = 4283	destIP = 46.232.205.172	destPort = 80	cookie = btwznidm
 Reply
-Timestamp = 13418506	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	userName = betlw
+Timestamp = 13415187	srcIP = 139.37.199.165	srcPort = 4283	destIP = 46.232.205.172	destPort = 80	userName = fspvtunbrw
 Request
 Timestamp = 13414637	srcIP = 139.37.199.165	srcPort = 4315	destIP = 99.21.170.175	destPort = 80	cookie = unzkvtt
 Reply
@@ -3971,17 +3971,37 @@ Timestamp = 13414613	srcIP = 139.37.199.165	srcPort = 10423	destIP = 193.86.70.1
 Reply
 Timestamp = 13414617	srcIP = 139.37.199.165	srcPort = 10423	destIP = 193.86.70.171	destPort = 80	userName = fbtou
 Request
-Timestamp = 13415784	srcIP = 139.37.199.165	srcPort = 48925	destIP = 155.183.27.102	destPort = 80	cookie = lgaqez
+Timestamp = 13418713	srcIP = 139.37.199.165	srcPort = 12294	destIP = 252.6.7.148	destPort = 80	cookie = hlwbuuq
 Reply
-Timestamp = 13415787	srcIP = 139.37.199.165	srcPort = 48925	destIP = 155.183.27.102	destPort = 80	userName = outwtsubb
+Timestamp = 13418715	srcIP = 139.37.199.165	srcPort = 12294	destIP = 252.6.7.148	destPort = 80	userName = nzpibypqgz
+Request
+Timestamp = 13415548	srcIP = 139.37.199.165	srcPort = 16836	destIP = 172.221.80.171	destPort = 80	cookie = spvxgkdhor
+Reply
+Timestamp = 13415552	srcIP = 139.37.199.165	srcPort = 16836	destIP = 172.221.80.171	destPort = 80	userName = irzwuv
+Request
+Timestamp = 13413770	srcIP = 139.37.199.165	srcPort = 18202	destIP = 112.173.221.98	destPort = 80	cookie = ydvsrnq
+Reply
+Timestamp = 13413771	srcIP = 139.37.199.165	srcPort = 18202	destIP = 112.173.221.98	destPort = 80	userName = myjfxhvo
 Request
 Timestamp = 13416908	srcIP = 139.37.199.165	srcPort = 24782	destIP = 114.77.55.1	destPort = 80	cookie = wriha
 Reply
 Timestamp = 13416912	srcIP = 139.37.199.165	srcPort = 24782	destIP = 114.77.55.1	destPort = 80	userName = yaoduxc
 Request
-Timestamp = 13418713	srcIP = 139.37.199.165	srcPort = 12294	destIP = 252.6.7.148	destPort = 80	cookie = hlwbuuq
+Timestamp = 13417994	srcIP = 139.37.199.165	srcPort = 44121	destIP = 32.126.224.39	destPort = 80	cookie = pjrphklz
 Reply
-Timestamp = 13418715	srcIP = 139.37.199.165	srcPort = 12294	destIP = 252.6.7.148	destPort = 80	userName = nzpibypqgz
+Timestamp = 13417999	srcIP = 139.37.199.165	srcPort = 44121	destIP = 32.126.224.39	destPort = 80	userName = geewihhtzf
+Request
+Timestamp = 13415784	srcIP = 139.37.199.165	srcPort = 48925	destIP = 155.183.27.102	destPort = 80	cookie = lgaqez
+Reply
+Timestamp = 13415787	srcIP = 139.37.199.165	srcPort = 48925	destIP = 155.183.27.102	destPort = 80	userName = outwtsubb
+Request
+Timestamp = 13418669	srcIP = 139.37.199.165	srcPort = 50475	destIP = 90.183.162.2	destPort = 80	cookie = faevc
+Reply
+Timestamp = 13418672	srcIP = 139.37.199.165	srcPort = 50475	destIP = 90.183.162.2	destPort = 80	userName = yfqklwy
+Request
+Timestamp = 13418501	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	cookie = eifakslyo
+Reply
+Timestamp = 13418506	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	userName = betlw
 Request
 Timestamp = 13417305	srcIP = 139.37.199.165	srcPort = 55810	destIP = 200.180.51.3	destPort = 80	cookie = gvuoyakvl
 Reply
@@ -3990,26 +4010,6 @@ Request
 Timestamp = 13413889	srcIP = 139.37.199.165	srcPort = 58982	destIP = 151.40.123.12	destPort = 80	cookie = byerz
 Reply
 Timestamp = 13413890	srcIP = 139.37.199.165	srcPort = 58982	destIP = 151.40.123.12	destPort = 80	userName = kdzxzj
-Request
-Timestamp = 13413770	srcIP = 139.37.199.165	srcPort = 18202	destIP = 112.173.221.98	destPort = 80	cookie = ydvsrnq
-Reply
-Timestamp = 13413771	srcIP = 139.37.199.165	srcPort = 18202	destIP = 112.173.221.98	destPort = 80	userName = myjfxhvo
-Request
-Timestamp = 13415183	srcIP = 139.37.199.165	srcPort = 4283	destIP = 46.232.205.172	destPort = 80	cookie = btwznidm
-Reply
-Timestamp = 13415187	srcIP = 139.37.199.165	srcPort = 4283	destIP = 46.232.205.172	destPort = 80	userName = fspvtunbrw
-Request
-Timestamp = 13418669	srcIP = 139.37.199.165	srcPort = 50475	destIP = 90.183.162.2	destPort = 80	cookie = faevc
-Reply
-Timestamp = 13418672	srcIP = 139.37.199.165	srcPort = 50475	destIP = 90.183.162.2	destPort = 80	userName = yfqklwy
-Request
-Timestamp = 13417994	srcIP = 139.37.199.165	srcPort = 44121	destIP = 32.126.224.39	destPort = 80	cookie = pjrphklz
-Reply
-Timestamp = 13417999	srcIP = 139.37.199.165	srcPort = 44121	destIP = 32.126.224.39	destPort = 80	userName = geewihhtzf
-Request
-Timestamp = 13415548	srcIP = 139.37.199.165	srcPort = 16836	destIP = 172.221.80.171	destPort = 80	cookie = spvxgkdhor
-Reply
-Timestamp = 13415552	srcIP = 139.37.199.165	srcPort = 16836	destIP = 172.221.80.171	destPort = 80	userName = irzwuv
 Reading file srcIP_86A3
 Request/Reply Matches
 Request
@@ -4055,9 +4055,17 @@ Timestamp = 13412441	srcIP = 216.65.146.47	srcPort = 54405	destIP = 114.66.135.1
 Reading file srcIP_8CD1
 Request/Reply Matches
 Request
+Timestamp = 13417782	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	cookie = qkzoppfr
+Reply
+Timestamp = 13417786	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	userName = vdxet
+Request
 Timestamp = 13414756	srcIP = 202.242.51.140	srcPort = 26096	destIP = 43.35.58.107	destPort = 80	cookie = zrcyrq
 Reply
 Timestamp = 13414761	srcIP = 202.242.51.140	srcPort = 26096	destIP = 43.35.58.107	destPort = 80	userName = bclsp
+Request
+Timestamp = 13415429	srcIP = 202.242.51.140	srcPort = 39995	destIP = 247.147.180.34	destPort = 80	cookie = ymoms
+Reply
+Timestamp = 13415432	srcIP = 202.242.51.140	srcPort = 39995	destIP = 247.147.180.34	destPort = 80	userName = jgwbf
 Request
 Timestamp = 13415764	srcIP = 202.242.51.140	srcPort = 51868	destIP = 4.17.229.74	destPort = 80	cookie = ubymkebb
 Reply
@@ -4067,17 +4075,9 @@ Timestamp = 13417947	srcIP = 202.242.51.140	srcPort = 52689	destIP = 5.67.106.19
 Reply
 Timestamp = 13417947	srcIP = 202.242.51.140	srcPort = 52689	destIP = 5.67.106.198	destPort = 80	userName = uasqrbmf
 Request
-Timestamp = 13415429	srcIP = 202.242.51.140	srcPort = 39995	destIP = 247.147.180.34	destPort = 80	cookie = ymoms
-Reply
-Timestamp = 13415432	srcIP = 202.242.51.140	srcPort = 39995	destIP = 247.147.180.34	destPort = 80	userName = jgwbf
-Request
 Timestamp = 13413474	srcIP = 202.242.51.140	srcPort = 53069	destIP = 98.133.121.255	destPort = 80	cookie = gitdgybwat
 Reply
 Timestamp = 13413476	srcIP = 202.242.51.140	srcPort = 53069	destIP = 98.133.121.255	destPort = 80	userName = jfaawku
-Request
-Timestamp = 13417782	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	cookie = qkzoppfr
-Reply
-Timestamp = 13417786	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	userName = vdxet
 Reading file srcIP_8CF6
 Request/Reply Matches
 Request
@@ -4183,13 +4183,21 @@ Timestamp = 13416560	srcIP = 253.122.77.239	srcPort = 51166	destIP = 2.235.160.8
 Reading file srcIP_9E0E
 Request/Reply Matches
 Request
+Timestamp = 13417310	srcIP = 92.130.25.157	srcPort = 11789	destIP = 134.127.237.210	destPort = 80	cookie = szfci
+Reply
+Timestamp = 13417311	srcIP = 92.130.25.157	srcPort = 11789	destIP = 134.127.237.210	destPort = 80	userName = ywdqxt
+Request
+Timestamp = 13414826	srcIP = 92.130.25.157	srcPort = 18906	destIP = 197.127.52.8	destPort = 80	cookie = ufszyfu
+Reply
+Timestamp = 13414827	srcIP = 92.130.25.157	srcPort = 18906	destIP = 197.127.52.8	destPort = 80	userName = ohbzwmz
+Request
 Timestamp = 13415882	srcIP = 92.130.25.157	srcPort = 21155	destIP = 206.135.115.6	destPort = 80	cookie = hquahaa
 Reply
 Timestamp = 13415885	srcIP = 92.130.25.157	srcPort = 21155	destIP = 206.135.115.6	destPort = 80	userName = wummcy
 Request
-Timestamp = 13413373	srcIP = 92.130.25.157	srcPort = 38374	destIP = 66.93.206.123	destPort = 80	cookie = dseacku
+Timestamp = 13415059	srcIP = 92.130.25.157	srcPort = 22899	destIP = 107.202.236.231	destPort = 80	cookie = lutbbo
 Reply
-Timestamp = 13413374	srcIP = 92.130.25.157	srcPort = 38374	destIP = 66.93.206.123	destPort = 80	userName = byatqdncyc
+Timestamp = 13415062	srcIP = 92.130.25.157	srcPort = 22899	destIP = 107.202.236.231	destPort = 80	userName = jyqrdukmvb
 Request
 Timestamp = 13414078	srcIP = 92.130.25.157	srcPort = 23007	destIP = 10.35.7.42	destPort = 80	cookie = pwvjukepij
 Reply
@@ -4199,17 +4207,9 @@ Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.2
 Reply
 Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.218	destPort = 80	userName = hsroksbqrx
 Request
-Timestamp = 13417310	srcIP = 92.130.25.157	srcPort = 11789	destIP = 134.127.237.210	destPort = 80	cookie = szfci
+Timestamp = 13413373	srcIP = 92.130.25.157	srcPort = 38374	destIP = 66.93.206.123	destPort = 80	cookie = dseacku
 Reply
-Timestamp = 13417311	srcIP = 92.130.25.157	srcPort = 11789	destIP = 134.127.237.210	destPort = 80	userName = ywdqxt
-Request
-Timestamp = 13414826	srcIP = 92.130.25.157	srcPort = 18906	destIP = 197.127.52.8	destPort = 80	cookie = ufszyfu
-Reply
-Timestamp = 13414827	srcIP = 92.130.25.157	srcPort = 18906	destIP = 197.127.52.8	destPort = 80	userName = ohbzwmz
-Request
-Timestamp = 13415059	srcIP = 92.130.25.157	srcPort = 22899	destIP = 107.202.236.231	destPort = 80	cookie = lutbbo
-Reply
-Timestamp = 13415062	srcIP = 92.130.25.157	srcPort = 22899	destIP = 107.202.236.231	destPort = 80	userName = jyqrdukmvb
+Timestamp = 13413374	srcIP = 92.130.25.157	srcPort = 38374	destIP = 66.93.206.123	destPort = 80	userName = byatqdncyc
 Request
 Timestamp = 13416080	srcIP = 92.130.25.157	srcPort = 44245	destIP = 29.146.103.99	destPort = 80	cookie = uitswifvhz
 Reply
@@ -4313,10 +4313,6 @@ Timestamp = 13414862	srcIP = 58.163.73.44	srcPort = 11365	destIP = 113.148.33.24
 Reading file srcIP_B6B9
 Request/Reply Matches
 Request
-Timestamp = 13416589	srcIP = 132.57.118.180	srcPort = 60151	destIP = 43.16.53.176	destPort = 80	cookie = lwcvsnddg
-Reply
-Timestamp = 13416593	srcIP = 132.57.118.180	srcPort = 60151	destIP = 43.16.53.176	destPort = 80	userName = oymafa
-Request
 Timestamp = 13414853	srcIP = 132.57.118.180	srcPort = 36437	destIP = 214.168.223.45	destPort = 80	cookie = gkavqzf
 Reply
 Timestamp = 13414855	srcIP = 132.57.118.180	srcPort = 36437	destIP = 214.168.223.45	destPort = 80	userName = sakrzoq
@@ -4328,6 +4324,10 @@ Request
 Timestamp = 13413454	srcIP = 132.57.118.180	srcPort = 58080	destIP = 233.105.183.22	destPort = 80	cookie = egswy
 Reply
 Timestamp = 13413455	srcIP = 132.57.118.180	srcPort = 58080	destIP = 233.105.183.22	destPort = 80	userName = hddvvsdvlo
+Request
+Timestamp = 13416589	srcIP = 132.57.118.180	srcPort = 60151	destIP = 43.16.53.176	destPort = 80	cookie = lwcvsnddg
+Reply
+Timestamp = 13416593	srcIP = 132.57.118.180	srcPort = 60151	destIP = 43.16.53.176	destPort = 80	userName = oymafa
 Reading file srcIP_B717
 Request/Reply Matches
 Request
@@ -4587,13 +4587,13 @@ Timestamp = 13418439	srcIP = 215.228.227.233	srcPort = 14081	destIP = 172.182.25
 Reply
 Timestamp = 13418442	srcIP = 215.228.227.233	srcPort = 14081	destIP = 172.182.25.100	destPort = 80	userName = iarlpoy
 Request
-Timestamp = 13417273	srcIP = 215.228.227.233	srcPort = 63562	destIP = 112.249.220.80	destPort = 80	cookie = qquklkz
-Reply
-Timestamp = 13417278	srcIP = 215.228.227.233	srcPort = 63562	destIP = 112.249.220.80	destPort = 80	userName = ckqwa
-Request
 Timestamp = 13417633	srcIP = 215.228.227.233	srcPort = 14703	destIP = 96.84.120.103	destPort = 80	cookie = lyfou
 Reply
 Timestamp = 13417634	srcIP = 215.228.227.233	srcPort = 14703	destIP = 96.84.120.103	destPort = 80	userName = hsroksbqrx
+Request
+Timestamp = 13417273	srcIP = 215.228.227.233	srcPort = 63562	destIP = 112.249.220.80	destPort = 80	cookie = qquklkz
+Reply
+Timestamp = 13417278	srcIP = 215.228.227.233	srcPort = 63562	destIP = 112.249.220.80	destPort = 80	userName = ckqwa
 Reading file srcIP_F7C8
 Request/Reply Matches
 Request
@@ -4633,13 +4633,9 @@ Timestamp = 13412686	srcIP = 153.42.23.139	srcPort = 6418	destIP = 182.200.36.22
 Reading file torusers_0414
 Request/Reply Matches
 Request
-Timestamp = 13418236	srcIP = 70.11.141.155	srcPort = 47382	destIP = 161.234.213.201	destPort = 80	cookie = lhicqhobu
+Timestamp = 13417611	srcIP = 126.74.71.88	srcPort = 57946	destIP = 110.71.13.220	destPort = 80	cookie = lhicqhobu
 Reply
-Timestamp = 13418237	srcIP = 70.11.141.155	srcPort = 47382	destIP = 161.234.213.201	destPort = 80	userName = fbvtukvep
-Request
-Timestamp = 13412548	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	cookie = lhicqhobu
-Reply
-Timestamp = 13412553	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	userName = fbvtukvep
+Timestamp = 13417616	srcIP = 126.74.71.88	srcPort = 57946	destIP = 110.71.13.220	destPort = 80	userName = fbvtukvep
 Request
 Timestamp = 13416186	srcIP = 141.142.163.90	srcPort = 6836	destIP = 58.14.30.20	destPort = 80	cookie = lhicqhobu
 Reply
@@ -4649,9 +4645,13 @@ Timestamp = 13416483	srcIP = 170.180.71.96	srcPort = 23449	destIP = 10.38.76.25	
 Reply
 Timestamp = 13416484	srcIP = 170.180.71.96	srcPort = 23449	destIP = 10.38.76.25	destPort = 80	userName = fbvtukvep
 Request
-Timestamp = 13417611	srcIP = 126.74.71.88	srcPort = 57946	destIP = 110.71.13.220	destPort = 80	cookie = lhicqhobu
+Timestamp = 13412548	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	cookie = lhicqhobu
 Reply
-Timestamp = 13417616	srcIP = 126.74.71.88	srcPort = 57946	destIP = 110.71.13.220	destPort = 80	userName = fbvtukvep
+Timestamp = 13412553	srcIP = 202.134.155.208	srcPort = 40289	destIP = 180.248.93.163	destPort = 80	userName = fbvtukvep
+Request
+Timestamp = 13418236	srcIP = 70.11.141.155	srcPort = 47382	destIP = 161.234.213.201	destPort = 80	cookie = lhicqhobu
+Reply
+Timestamp = 13418237	srcIP = 70.11.141.155	srcPort = 47382	destIP = 161.234.213.201	destPort = 80	userName = fbvtukvep
 Reading file torusers_041A
 Request/Reply Matches
 Request
@@ -4791,23 +4791,23 @@ Timestamp = 13416722	srcIP = 132.57.118.180	srcPort = 54830	destIP = 200.229.167
 Reading file torusers_6120
 Request/Reply Matches
 Request
-Timestamp = 13417782	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	cookie = qkzoppfr
-Reply
-Timestamp = 13417786	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	userName = vdxet
-Request
 Timestamp = 13414990	srcIP = 119.168.180.184	srcPort = 34420	destIP = 141.95.58.38	destPort = 80	cookie = qkzoppfr
 Reply
 Timestamp = 13414994	srcIP = 119.168.180.184	srcPort = 34420	destIP = 141.95.58.38	destPort = 80	userName = vdxet
+Request
+Timestamp = 13417782	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	cookie = qkzoppfr
+Reply
+Timestamp = 13417786	srcIP = 202.242.51.140	srcPort = 18179	destIP = 202.183.11.12	destPort = 80	userName = vdxet
 Reading file torusers_61EA
 Request/Reply Matches
-Request
-Timestamp = 13418035	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	cookie = btwznidm
-Reply
-Timestamp = 13418040	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	userName = fspvtunbrw
 Request
 Timestamp = 13415183	srcIP = 139.37.199.165	srcPort = 4283	destIP = 46.232.205.172	destPort = 80	cookie = btwznidm
 Reply
 Timestamp = 13415187	srcIP = 139.37.199.165	srcPort = 4283	destIP = 46.232.205.172	destPort = 80	userName = fspvtunbrw
+Request
+Timestamp = 13418035	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	cookie = btwznidm
+Reply
+Timestamp = 13418040	srcIP = 22.141.173.205	srcPort = 52167	destIP = 181.126.177.225	destPort = 80	userName = fspvtunbrw
 Reading file torusers_6841
 Request/Reply Matches
 Request
@@ -4829,13 +4829,13 @@ Timestamp = 13413713	srcIP = 253.104.111.68	srcPort = 50970	destIP = 149.145.201
 Reading file torusers_779A
 Request/Reply Matches
 Request
-Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.218	destPort = 80	cookie = lyfou
-Reply
-Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.218	destPort = 80	userName = hsroksbqrx
-Request
 Timestamp = 13417633	srcIP = 215.228.227.233	srcPort = 14703	destIP = 96.84.120.103	destPort = 80	cookie = lyfou
 Reply
 Timestamp = 13417634	srcIP = 215.228.227.233	srcPort = 14703	destIP = 96.84.120.103	destPort = 80	userName = hsroksbqrx
+Request
+Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.218	destPort = 80	cookie = lyfou
+Reply
+Timestamp = 13417663	srcIP = 92.130.25.157	srcPort = 29608	destIP = 238.91.106.218	destPort = 80	userName = hsroksbqrx
 Reading file torusers_7B53
 Request/Reply Matches
 Request
@@ -4915,13 +4915,13 @@ Timestamp = 13417738	srcIP = 202.134.155.208	srcPort = 3120	destIP = 72.10.253.3
 Reading file torusers_A3DA
 Request/Reply Matches
 Request
-Timestamp = 13416787	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	cookie = lgaqez
-Reply
-Timestamp = 13416791	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	userName = outwtsubb
-Request
 Timestamp = 13415784	srcIP = 139.37.199.165	srcPort = 48925	destIP = 155.183.27.102	destPort = 80	cookie = lgaqez
 Reply
 Timestamp = 13415787	srcIP = 139.37.199.165	srcPort = 48925	destIP = 155.183.27.102	destPort = 80	userName = outwtsubb
+Request
+Timestamp = 13416787	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	cookie = lgaqez
+Reply
+Timestamp = 13416791	srcIP = 92.126.192.54	srcPort = 62651	destIP = 62.139.37.234	destPort = 80	userName = outwtsubb
 Reading file torusers_A57C
 Request/Reply Matches
 Request
@@ -4937,13 +4937,13 @@ Timestamp = 13413921	srcIP = 92.126.192.54	srcPort = 60038	destIP = 50.217.197.2
 Reading file torusers_AB58
 Request/Reply Matches
 Request
-Timestamp = 13418501	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	cookie = eifakslyo
-Reply
-Timestamp = 13418506	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	userName = betlw
-Request
 Timestamp = 13415312	srcIP = 116.144.217.33	srcPort = 19192	destIP = 203.208.61.101	destPort = 80	cookie = eifakslyo
 Reply
 Timestamp = 13415312	srcIP = 116.144.217.33	srcPort = 19192	destIP = 203.208.61.101	destPort = 80	userName = betlw
+Request
+Timestamp = 13418501	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	cookie = eifakslyo
+Reply
+Timestamp = 13418506	srcIP = 139.37.199.165	srcPort = 52945	destIP = 71.119.215.248	destPort = 80	userName = betlw
 Reading file torusers_AE92
 Request/Reply Matches
 Request
@@ -4957,13 +4957,13 @@ Timestamp = 13415126	srcIP = 253.104.111.68	srcPort = 9461	destIP = 9.41.198.110
 Reading file torusers_B532
 Request/Reply Matches
 Request
-Timestamp = 13417090	srcIP = 254.133.36.19	srcPort = 51028	destIP = 137.4.122.112	destPort = 80	cookie = cclaaqa
-Reply
-Timestamp = 13417091	srcIP = 254.133.36.19	srcPort = 51028	destIP = 137.4.122.112	destPort = 80	userName = fbtou
-Request
 Timestamp = 13414613	srcIP = 139.37.199.165	srcPort = 10423	destIP = 193.86.70.171	destPort = 80	cookie = cclaaqa
 Reply
 Timestamp = 13414617	srcIP = 139.37.199.165	srcPort = 10423	destIP = 193.86.70.171	destPort = 80	userName = fbtou
+Request
+Timestamp = 13417090	srcIP = 254.133.36.19	srcPort = 51028	destIP = 137.4.122.112	destPort = 80	cookie = cclaaqa
+Reply
+Timestamp = 13417091	srcIP = 254.133.36.19	srcPort = 51028	destIP = 137.4.122.112	destPort = 80	userName = fbtou
 Reading file torusers_B604
 Request/Reply Matches
 Request
@@ -5055,13 +5055,13 @@ Timestamp = 13414152	srcIP = 153.42.23.139	srcPort = 39848	destIP = 55.44.110.13
 Reading file torusers_E421
 Request/Reply Matches
 Request
-Timestamp = 13417343	srcIP = 96.34.206.222	srcPort = 27169	destIP = 52.129.249.204	destPort = 80	cookie = qquklkz
-Reply
-Timestamp = 13417344	srcIP = 96.34.206.222	srcPort = 27169	destIP = 52.129.249.204	destPort = 80	userName = ckqwa
-Request
 Timestamp = 13417273	srcIP = 215.228.227.233	srcPort = 63562	destIP = 112.249.220.80	destPort = 80	cookie = qquklkz
 Reply
 Timestamp = 13417278	srcIP = 215.228.227.233	srcPort = 63562	destIP = 112.249.220.80	destPort = 80	userName = ckqwa
+Request
+Timestamp = 13417343	srcIP = 96.34.206.222	srcPort = 27169	destIP = 52.129.249.204	destPort = 80	cookie = qquklkz
+Reply
+Timestamp = 13417344	srcIP = 96.34.206.222	srcPort = 27169	destIP = 52.129.249.204	destPort = 80	userName = ckqwa
 Reading file torusers_F0A3
 Request/Reply Matches
 Request

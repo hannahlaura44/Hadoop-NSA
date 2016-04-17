@@ -11,7 +11,8 @@ public class RequestReplyMatch implements Writable, Serializable {
     private WebTrafficRecord reply;
 
     // Need null constructor for deserialization
-    public RequestReplyMatch() {}
+    public RequestReplyMatch(){
+    }
 
     public RequestReplyMatch(WebTrafficRecord request, WebTrafficRecord reply) {
         this.request = request;
@@ -73,15 +74,23 @@ public class RequestReplyMatch implements Writable, Serializable {
         return this.request.getSrcIp();
     }
 
+    public int getSrcPort() {
+        return this.request.getSrcPort();
+    }
+
     public String getDestIp() {
         return this.request.getDestIp();
+    }
+
+    public int getDestPort() {
+        return this.request.getDestPort();
     }
 
     public String getUserName() {
         return this.reply.getUserName();
     }
 
-    public String getCookie() {
+    public String getCookie(){
         return this.request.getCookie();
     }
 }
