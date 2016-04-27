@@ -6,6 +6,8 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.util.Arrays;
+import javax.xml.bind.DatatypeConverter;
 
 public class QFDWriterMapper extends Mapper<RequestReplyMatch,
 				     NullWritable, WTRKey,
@@ -45,19 +47,29 @@ public class QFDWriterMapper extends Mapper<RequestReplyMatch,
 
         // As an example, to dispatch for the "srcIP", the
         // hash should be
-
-            // MessageDigest md = HashUtils.cloneMessageDigest(messageDigest);
-            // md.update(record.getSrcIp().getBytes(StandardCharsets.UTF_8));
-            // byte[] hash = md.digest();
-            // byte[] hashBytes = Arrays.copyOf(hash, HashUtils.NUM_HASH_BYTES);
-            // String hashString = DatatypeConverter.printHexBinary(hashBytes);
-            // WTRKey key = new WTRKey("srcIP", hashString);
-            // ctxt.write(key, record);
+        String hashString = getHash(record.getSrcIp());
+        WTRKey key = new WTRKey("srcIP", hashString);
+        ctxt.write(key, record);
 
         // You need to do srcIP, destIP, and cookie QFD dispatch, and should
         // be able to use a much more generic structure
+        
+        hashString = getHash(record.getDestIp());
+        key = new WTRKey("destIP", hashString);
+        ctxt.write(key, record);
 
-        System.err.println("Here needs implementation!");
+        hashString = getHash(record.getCookie());
+        key = new WTRKey("cookie", hashString);
+        ctxt.write(key, record);
+
     }
 
+    public String getHash(String attribute) {
+        MessageDigest md = HashUtils.cloneMessageDigest(messageDigest);
+        md.update(attribute.getBytes(StandardCharsets.UTF_8));
+        byte[] hash = md.digest();
+        byte[] hashBytes = Arrays.copyOf(hash, HashUtils.NUM_HASH_BYTES);
+        String hashString = DatatypeConverter.printHexBinary(hashBytes);
+        return hashString;
+    } 
 }
